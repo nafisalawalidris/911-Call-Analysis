@@ -41,6 +41,9 @@
     <li>SciPy</li>
   </ul>
 
+   <h2>Contributors</h2>
+  <p>This project was developed by <b>Nafisa Lawal Idris</b>. Contributions and feedback are welcome.</p>
+  
   <h2>Conclusion</h2>
   <p>The 911 Call Analysis project provides a comprehensive analysis of emergency call data, enabling insights that can inform decision-making and improve emergency services.</p>
 </body>
